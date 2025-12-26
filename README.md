@@ -18,7 +18,7 @@ A full-featured casino GUI application built entirely with standard Java librari
 ## Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/java-casino.git
+git clone https://github.com/MelonMan445/java-casino.git
 cd java-casino
 
 # Compile
